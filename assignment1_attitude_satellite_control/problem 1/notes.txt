@@ -1,0 +1,13 @@
+1.3: kontrollere quaternions tilsvarer å kontrollere euler angles
+
+
+1.5: kontroll inputs er ikke helt bra, kan argumentere for med med å se på uttrykket tau
+
+
+1.6
+
+w_d =
+
+   -0.3522
+   -0.1498
+   -0.3540
